@@ -18,8 +18,8 @@ if (isProduction) {
   });
 }
 
-//pool.query('SELECT * from category_94', (err, res) => {
-//  console.log(JSON.stringify(res.rows));
-//});
+// pool.query('SELECT * from category_94', (err, res) => {
+//   console.log(JSON.stringify(res.rows));
+// });
 
 module.exports = pool;
