@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 const crown_94_Router = require('./routes/crown_94');
 const crown2_94_Router = require('./routes/crown2_94');
+const api_94_Router = require('./routes/api_94');
 
 var app = express();
 
@@ -25,6 +26,7 @@ app.use('/', indexRouter);
 app.use('/crown_94', crown_94_Router);
 app.use('/crown2_94', crown2_94_Router);
 app.use('/users', usersRouter);
+app.use('/api_94', api_94_Router);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
