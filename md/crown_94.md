@@ -68,9 +68,9 @@ module.exports = router;
 
 views/crown_xx.ejs 相關重點以圖片呈現
 
-![3.](./img/184441.png)
-![3.](./img/184520.png)
-![3.](./img/184557.png)
+![3.](https://i.imgur.com/talfM6L.png)
+![3.](https://i.imgur.com/rSK3QFV.png)
+![3.](https://i.imgur.com/hfGw6ka.png)
 
 ---
 
@@ -78,7 +78,7 @@ views/crown_xx.ejs 相關重點以圖片呈現
 
 - Chrome 截圖
 
-![3.](./img/2048.png)
+![3.](https://i.imgur.com/YiLTAvn.png)
 
 ---
 
@@ -94,7 +94,7 @@ Github Repo URL
 [https://github.com/Dennis133/1101-db-crown-209410694](https://github.com/Dennis133/1101-db-crown-209410694)
 
 Heroku 畫面，要有 app 名稱
-![3.](./img/191329.png)
+![3.](https://i.imgur.com/EnbhWE3.jpg)
 
 ---
 
@@ -110,10 +110,10 @@ Heroku 畫面，要有 app 名稱
   password: xxxxxxxxx
 
 Chrome 截圖 (要看到 URL，上面有 heroku database, category_xx, 和 5 筆資料 )
-![3.](./img/191329.png)
+![3.](https://i.imgur.com/4w15l48.png)
 
 Heroku 畫面，要看到 DATABASE_URL 資料
-![3.](./img/191705.png)
+![3.](https://i.imgur.com/x0RKqyc.png)
 請提供 Heroku DATABASE_URL 資料，並將之拆分提供文字放入 code (```)中
 
 ```
@@ -135,10 +135,10 @@ password: da484da27ed01bdd0c3069b8f434537b51f29bb6d1344bbf23d873c1c5e083ec
 - views/crown2_xx.ejs ，相關重點以圖片標註呈現呈現
 
 Chrome 截圖，要有 URL
-![3.](./img/205156.png)
+![3.](https://i.imgur.com/SBAWOQo.jpg)
 
 app.js ，相關重點以圖片標註呈現
-![3.](./img/205545.png)
+![3.](https://i.imgur.com/Ls5WGZH.png)
 
 routes/crown2_xx.js，相關重點以圖片標註呈現呈現
 
@@ -154,8 +154,8 @@ module.exports = router;
 ```
 
 views/crown2_xx.ejs ，相關重點以圖片標註呈現呈現
-![3.](./img/211744.png)
-![3.](./img/211808.png)
+![3.](https://i.imgur.com/6Oo4xYr.png)
+![3.](https://i.imgur.com/OgkrTpS.png)
 
 ---
 
@@ -165,7 +165,7 @@ views/crown2_xx.ejs ，相關重點以圖片標註呈現呈現
 - Github Repo URL
 
 Chrome 截圖 (要看到 URL，上面有 heroku app )
-![3.](./img/212112.png)
+![3.](https://i.imgur.com/WM7DFW0.jpg)
 
 Github Repo URL
 [https://github.com/Dennis133/1101-db-crown-209410694](https://github.com/Dennis133/1101-db-crown-209410694)
@@ -180,11 +180,11 @@ Github Repo URL
 - controllers/apiCrown2Controller_xx.js ，相關重點以圖片標註呈現呈現
 
 Chrome 截圖，要有 路由 /api_xx/category_xx
-![3.](./img/212347.png)
+![3.](https://i.imgur.com/XhX9eEi.png)
 
 app.js ，相關重點以圖片標註呈現
-![3.](./img/205545.png)
-![3.](./img/212502.png)
+![3.](https://i.imgur.com/Ls5WGZH.png)
+![3.](https://i.imgur.com/MVBMubp.png)
 
 routes/api_xx.js，相關重點以圖片標註呈現呈現
 
@@ -221,7 +221,7 @@ exports.getCategories = async (req, res) => {
 - Github Repo URL
 
 Chrome 截圖 (要看到 /api_xx/category_xx，上面有 heroku app )
-![3.](./img/212951.png)
+![3.](https://i.imgur.com/zXHAJSz.png)
 
 Github Repo URL
 [https://github.com/Dennis133/1101-db-crown-209410694](https://github.com/Dennis133/1101-db-crown-209410694)
